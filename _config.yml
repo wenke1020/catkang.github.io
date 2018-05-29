@@ -1,11 +1,11 @@
 # Site settings
-title: CatKang的博客
-email: beijingwangkang@hotmail.com
+title: Galaxy的博客
+email: wenkzhao@fudan.edu.cn 
 description: Out of three sounds he frame, not a fourth sound, but a star
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://catkang.github.io/
+url: https://wenke1020.github.io/
 rss_url: /pages/feed.xml
-author: Kang Wang
+author: wenke1020
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -13,10 +13,10 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-github: CatKang
-linkedin: kang-wang-b0357072
-zhihu: meng-fei-76
-stackoverflow: 2682705/catkang
+github: wenke1020
+linkedin: 
+zhihu: 
+stackoverflow: 
 
 # avatar and Favicon
 avatar: https://avatars2.githubusercontent.com/u/4082238?v=3&s=460
@@ -24,7 +24,7 @@ favicon: https://avatars2.githubusercontent.com/u/4082238?v=3&s=460
 
 # disqus config
 disqus:
-  shortname: kangcat
+  shortname: wenke1020
 
 # google analytics config
 ga:
