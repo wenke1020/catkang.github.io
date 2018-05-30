@@ -1,4 +1,3 @@
-
 ---                                                                                                                                      
 layout: post
 title: CAP理论与分布式系统设计
