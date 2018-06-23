@@ -6,9 +6,6 @@ tags: [Programmer, Career]
 keywords: Programmer, Career
 ---
 
-## 转：Don't Call Yourself A Programmer, And Other Career Advice
-
-
 
 ### 作者
 From Patrick McKenzie
