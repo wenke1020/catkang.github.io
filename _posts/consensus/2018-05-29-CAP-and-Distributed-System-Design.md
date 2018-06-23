@@ -6,7 +6,9 @@ tags: [Paxos, Raft，一致性，共识算法]
 keywords: Paxos, Raft，一致性，共识算法
 ---
 
-dddd
+本文转自网络文章，重点讲解CAP理论和论证，与实际案例的分享。
+
+
 
 ## **1 引言**
 
