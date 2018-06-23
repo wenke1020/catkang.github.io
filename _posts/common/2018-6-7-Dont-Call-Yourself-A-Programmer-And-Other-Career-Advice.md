@@ -1,17 +1,17 @@
+---
+layout: post
+title: 转：Don't Call Yourself A Programmer, And Other Career Advice
+category: Common
+tags: [Programmer, Career]
+keywords: Programmer, Career
+---
+
 ## 转：Don't Call Yourself A Programmer, And Other Career Advice
 
 
 
 ### 作者
 From Patrick McKenzie
-
-
-## 日期
-2018-06-07
-
-
-### 标签
-programmer, career
 
 ----
 
