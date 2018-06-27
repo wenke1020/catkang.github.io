@@ -1,6 +1,6 @@
 # Site settings
 title: Galaxy的博客
-email: wenkzhao@fudan.edu.cn 
+email: wenkzhao@fudan.edu.cn
 description: Out of three sounds he frame, not a fourth sound, but a star
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://wenke1020.github.io/
@@ -14,13 +14,13 @@ recent_num: 20
 
 # Social account
 github: wenke1020
-linkedin: 
-zhihu: 
-stackoverflow: 
+linkedin:
+zhihu:
+stackoverflow:
 
 # avatar and Favicon
-avatar: https://avatars2.githubusercontent.com/u/4082238?v=3&s=460
-favicon: https://avatars2.githubusercontent.com/u/4082238?v=3&s=460
+#avatar: https://avatars2.githubusercontent.com/u/4082238?v=3&s=460
+#favicon: https://avatars2.githubusercontent.com/u/4082238?v=3&s=460
 
 # disqus config
 disqus:
@@ -32,7 +32,7 @@ ga:
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
-markdown: kramdown
+markdown: macdown
 highlighter: rouge
 mathjax: disabled
 sass:
