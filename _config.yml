@@ -32,7 +32,7 @@ ga:
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
-markdown: macdown
+markdown: kramdown
 highlighter: rouge
 mathjax: disabled
 sass:
